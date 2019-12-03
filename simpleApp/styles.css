@@ -1,0 +1,17 @@
+﻿body {
+    background-color:aquamarine;
+    text-align:center;
+}
+
+#login_form{
+    background-color:white;
+    text-align:center;
+    width:10px;
+    height:400px;
+}
+
+.textBox{
+ padding-bottom:10px;
+ width:500px;
+ border-style:solid;
+}
